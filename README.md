@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rincon0 - rincon
-- 👀 I’m interested in pentesting
-- 🌱 I’m currently learning pentesting
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @rincon0 - rincon.
+- 👀 I’m interested in pentesting.
+- 🌱 I’m currently learning pentesting.
+- 💞️ ESP.
+- 📫 How to reach me: amrincon2003@gmail.com
 
 <!---
 rincon0/rincon0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
